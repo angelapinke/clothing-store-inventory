@@ -1,6 +1,6 @@
 # clothing-store-inventory
 
-A simple order and inventory management system for small clothing stores. It provides basic product and store records, inventory counts, and order logging — intended for students and instructors. This repository was built as a university course project and is not configured for production deployment (no environment/config management or hardened security).
+A simple order and inventory management system for small clothing stores: product and store records, inventory counts, and order logging. Built as coursework for a university database course — it is not configured for production deployment (no environment/config management, no hardened security).
 
 Tech stack: PHP, MySQL, Bootstrap
 
