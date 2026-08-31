@@ -2,6 +2,8 @@
 
 A simple order and inventory management system for small clothing stores. It provides basic product and store records, inventory counts, and order logging — intended for students and instructors. This repository was built as a university course project and is not configured for production deployment (no environment/config management or hardened security).
 
+Tech stack: PHP, MySQL, Bootstrap
+
 <img width="584" height="765" alt="image" src="https://github.com/user-attachments/assets/23a2556c-bcc1-40b1-82f2-245725e3bb43" />
 
 ## Data model (textual)
